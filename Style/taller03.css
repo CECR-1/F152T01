@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd9;
+}
+
+header {
+    background-color: #adf;
+}
+
+main {
+    background-color: #2d4;
+}
+
+section {
+    background-color: #ff4;
+}
+
+div {
+    background-color: #498;
+}
+
+h1, h2 {
+    color: red;
+}
+
+a {
+    color: #f00;
+}

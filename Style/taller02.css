@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd9;
+}
+
+img {
+    width: 300px;
+    box-shadow: 0 0 30px #000;
+}
+
+a {
+    color: #f00;
+}

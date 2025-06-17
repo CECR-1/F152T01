@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd9;
+}
+
+#uno {
+    color: yellow;
+}
+
+#dos{
+    color: blue;
+}
+
+#tres {
+    color: red;
+}
+
+a {
+    color: #f00;
+}
