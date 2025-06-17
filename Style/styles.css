@@ -23,3 +23,15 @@ div {
 ul {
     margin-top: 100px;
 }
+
+footer {
+    text-align: center;
+    width: 300px;
+    border: 1px solid #000;
+    background-color: #fff;
+}
+
+span {
+    display: block;
+    text-align: center;
+}
